@@ -1,2 +1,6 @@
 # vosk-test
-The objective of this repository is to test VOSK
+El objetivo de este repositorio es probar la librería VOSK
+
+## Sitio web oficial
+https://alphacephei.com/vosk/
+
